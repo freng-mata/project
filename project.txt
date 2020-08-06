@@ -1,2 +1,4 @@
-data checkbox belum bisa 
-sedang dalam perbaikan
+yang harus diperbaiki
+- Data checkbox belum bisa 
+- Disposi untuk brand dan GM
+- Tambah form Disposisi dan keterangan di form suveyor
